@@ -19,24 +19,22 @@ date: 2025-01-03
     <p><strong>Special Skills:</strong> Networking </p>
 </div>
 
-<div class="textspace mt-8" style="font-size: smaller;">
-    <p><strong>Video Demo:</strong> 
-            <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" 
-               class="highlight underline hover:text-purple-800" 
-               target="_blank" rel="noopener noreferrer">
-               Watch Here
-            </a>
-    </p>
-        
-            
-    <p><strong>Video Demo:</strong> 
-            <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" 
-               class="highlight underline hover:text-purple-800" 
-               target="_blank" rel="noopener noreferrer">
-               Watch Here
-            </a>
-        </p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Video Demo Test</title>
+</head>
+<body style="font-size: smaller;">
+  <p><strong>Video Demo:</strong>
+    <a href="https://www.youtube.com/watch?v=93HwuXmwk9M"
+       class="highlight underline hover:text-purple-800"
+       target="_blank" rel="noopener noreferrer">
+       Watch Here
+    </a>
+  </p>
+</body>
+</html>
 
 
 <div class = "textspace mt-8">
