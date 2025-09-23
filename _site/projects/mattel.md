@@ -23,7 +23,7 @@ date: 2023-01-05
 <p class = "">During the summer I worked with designers on two mobile game prototypes that incorporated Mattel IP: a Match-3 Game and a Multiplayer Strategy Game.</p>
 </div>
 
-<<div class="textspace-no-margin my-8">
+<div class="textspace-no-margin my-8">
   <p>For the <span class="highlight">Swipe-3 Prototype</span> I was responsible for:</p>
   <ul class="list-disc ml-4" style="font-weight: normal;">
     <li>Creating the architecture of the prototype using singletons</li>

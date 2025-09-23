@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Ledgerbound
-image: Ledgerbound.webp
+image: LedgerboundLogo.webp
 summary: A Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!
 role: Gameplay Programmer / Technical Design Intern
 link:
