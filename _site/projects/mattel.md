@@ -19,6 +19,25 @@ date: 2025-01-03
     <p><strong>Special Skills:</strong> Networking </p>
 </div>
 
+<div class="textspace mt-8" style="font-size: smaller;">
+    <p><strong>Video Demo:</strong> 
+            <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" 
+               class="highlight underline hover:text-purple-800" 
+               target="_blank" rel="noopener noreferrer">
+               Watch Here
+            </a>
+    </p>
+        
+            
+    <p><strong>Video Demo:</strong> 
+            <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" 
+               class="highlight underline hover:text-purple-800" 
+               target="_blank" rel="noopener noreferrer">
+               Watch Here
+            </a>
+        </p>
+</div>
+
 
 <div class = "textspace mt-8">
 <p class = "">During the summer I worked with designers on two mobile game prototypes that incorporated Mattel IP: a Match-3 Game and a Multiplayer Strategy Game.</p>
