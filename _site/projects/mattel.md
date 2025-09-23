@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Mattel
-image: OmniMegaSuperCorp.png
+image: OmniMegaSuperCorp.webp
 summary: Two mobile game prototypes that incorporated Mattel IP.
 role: Digital Games Intern
 link:

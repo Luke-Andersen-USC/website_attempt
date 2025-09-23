@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Soul Season
-image: soulSeasonScreen.png
+image: soulSeasonScreen.webp
 summary: Soul Season is a cooking/management game in which you play as the Grim Reaper, having broken out of your dead-end job ferrying souls to the underworld with a plan to start a new restaurant for monsters.
 role: Co-director, Gameplay Programmer, Technical Game Designer, Narrative Designer
 link:

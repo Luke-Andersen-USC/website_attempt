@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Jizo No Akumu
-image: jizoNoAkumuScreen.png
+image: jizoNoAkumuScreen.webp
 summary: Jizo No Akumu is a third-person adventure game where you play as Jizo, a young Japanese girl forced to confront a nightmarish Baku demon in order to save her family.
 role: Gameplay Programmer
 link:

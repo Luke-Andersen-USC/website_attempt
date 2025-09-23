@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Eight Moons To Eternity
-image: EightMoonsToEternityScreen.png
+image: EightMoonsToEternityScreen.webp
 summary: Eight Moons to Eternity is a hybrid top-down shooter/resource management roguelike in which you travel through an endless number of bleak realities, hoping to repair humanity's last bastion of Eternity before mankind wipes itself out!
 role: Narrative Designer
 link:

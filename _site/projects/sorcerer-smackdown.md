@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Sorcerer Smackdown
-image: SorcererSmackdownScreen.jpg
+image: SorcererSmackdownScreen.webp
 summary: Sorcerer Smackdown is a 2d fighting Game in which use your brains and brawns to determine who's the best wizard wrestler of all time!
 role: Gameplay Programmer
 link:
