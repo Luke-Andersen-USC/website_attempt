@@ -1,3 +1,21 @@
+- title: Mattel
+  image: MattelLogo.webp
+  summary: Two mobile game prototypes that incorporated Mattel IP.
+  role: Digital Games Intern
+  link:
+  link-text:
+  tags:
+  timeframe: June 2025 - August 2025
+  featured: y
+- title: Scarecrow
+  image: ScareCrowLogo.webp
+  summary: An upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
+  role: AI Engineer
+  link:
+  link-text:
+  tags:
+  timeframe: May 2024 - May 2025
+  featured: y
 - title: Iron Testament
   image: IronTestamentScreenshot.webp
   summary: An upcoming turn-based-strategy game that takes place in a post-apocolyptic future. As the last surviving human on Earth, lead your robot followers and take back Earth for the Children of Flesh.
@@ -5,19 +23,10 @@
   link:
   link-text:
   tags:
-  timeframe: April 2024 - Present
+  timeframe: April 2024 - May 2025
   featured: y
-- title: Scarecrow
-  image: ScarecrowScreenshot.webp
-  summary: An upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
-  role: AI Engineer
-  link:
-  link-text:
-  tags:
-  timeframe: May 2024 - Present
-  featured: y
-- title: Sword and Paperwork
-  image: OmniMegaSuperCorpAlt.webp
+- title: LedgerboundLogo
+  image: LedgerboundLogo.webp
   summary: A Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!
   role: Gameplay Programmer / Technical Design Intern
   link: 
