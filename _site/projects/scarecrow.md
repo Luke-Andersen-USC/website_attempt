@@ -1,8 +1,8 @@
 ---
 layout: project
 tags: projects
-title: Scarecrow
-image: ScarecrowScreenshot.webp
+title: Scare Crow
+image: ScarecrowLogo.webp
 summary: An upcoming third-person stealth game in which play as a scarecrow and protect your bird feeder from greedy squirrels!
 role: AI Engineer
 link:
@@ -18,9 +18,10 @@ date: 2024-01-02
     <p><strong>Version Control:</strong> Perforce</p>
     <p><strong>Coding Language:</strong> C#</p>
     <p><strong>Special Skills:</strong> <a href = "https://shorturl.at/JAcK4" class = "highlight underline hover:text-red-800">Behavior Designer</a>, <a href = "https://arongranberg.com/astar/" class = "highlight underline hover:text-red-800"> A* Pathfinding Project Pro</a></p>
+    <p><strong>Release Platform:</strong> <a href="https://store.steampowered.com/app/3315060/Scare_Crow/" class="highlight underline hover:text-purple-800">Steam</a></p>
 </div>
 <div class = "textspace mt-8">
-<p class = "">Scarecrow is a USC Advanced Games Project in which you play as a scarecrow and protect your bird feeder from greedy squirrels!</p>
+<p class = "">Scare Crow is a USC Advanced Games Project in which you play as a scarecrow and protect your bird feeder from greedy squirrels!</p>
     <p> Scarecrow seeks to capture the mischievous stealth of Untitled Goose Game, with the player using their flight-centric movement and various traps to ambush invading squirrels and give them the fright of their lives!</p>
 </div>
 

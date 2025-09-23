@@ -1,8 +1,8 @@
 ---
 layout: project
 tags: projects
-title: Sword and Paperwork
-image: OmniMegaSuperCorp.webp
+title: Ledgerbound
+image: LedgerBound.webp
 summary: A Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!
 role: Gameplay Programmer / Technical Design Intern
 link:
@@ -17,11 +17,12 @@ date: 2024-01-03
     <p><strong>Version Control:</strong> Github</p>
     <p><strong>Coding Language:</strong> C#</p>
     <p><strong>Special Skills:</strong> Yarnspinner</p>
+        <p><strong>Release Platform:</strong> <a href="https://store.steampowered.com/app/3315060/Ledgerbound/" class="highlight underline hover:text-purple-800">Steam</a></p>
 </div>
 
 
 <div class = "textspace mt-8">
-<p class = ""><strong>Sword and Paperwork</strong> is a Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!</p>
+<p class = ""><strong>Ledgerbound</strong> is a Turn-Based Tactics Game where you journey with a crew of misfits to stop an army of other-worldly parasitic warriors from taking over your dimension!</p>
 </div>
 
 <div class = "textspace-no-margin my-8">

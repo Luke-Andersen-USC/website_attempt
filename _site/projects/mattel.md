@@ -2,7 +2,7 @@
 layout: project
 tags: projects
 title: Mattel
-image: OmniMegaSuperCorp.webp
+image: MattelLogo.webp
 summary: Two mobile game prototypes that incorporated Mattel IP.
 role: Digital Games Intern
 link:
@@ -18,24 +18,6 @@ date: 2025-01-03
     <p><strong>Coding Language:</strong> C# </p>
     <p><strong>Special Skills:</strong> Networking </p>
 </div>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Video Demo Test</title>
-</head>
-<body style="font-size: smaller;">
-  <p><strong>Video Demo:</strong>
-    <a href="https://www.youtube.com/watch?v=93HwuXmwk9M"
-       class="highlight underline hover:text-purple-800"
-       target="_blank" rel="noopener noreferrer">
-       Watch Here
-    </a>
-  </p>
-</body>
-</html>
-
 
 <div class = "textspace mt-8">
 <p class = "">During the summer I worked with designers on two mobile game prototypes that incorporated Mattel IP: a Match-3 Game and a Multiplayer Strategy Game.</p>
