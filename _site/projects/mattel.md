@@ -16,7 +16,7 @@ date: 2025-01-03
     <p><strong>Engine:</strong> Unity</p>
     <p><strong>Version Control:</strong> Github</p>
     <p><strong>Coding Language:</strong> C# </p>
-    <p><strong>Special Skills:</strong> Networking </p>
+    <p><strong>Special Skills:<a href = "https://assetstore.unity.com/packages/tools/network/pun-2-free-119922" class = "highlight underline hover:text-red-800"> PUN-2</a></p>
 </div>
 
 <div class = "textspace mt-8">
